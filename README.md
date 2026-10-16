@@ -59,6 +59,7 @@ delegate — no explorer scraping, no API keys.
 
 Full walkthrough (including the revoke procedure and the funding-order
 trap):
+- [CLI + Etherscan + browser: three ways to check your delegation](https://brainresearchhub.net/research/security/check-wallet-eip-7702-cli)
 **[Check your wallet for an EIP-7702 delegation — BrainResearchHub](https://brainresearchhub.net/research/security/check-eip-7702-delegation-revoke)**
 
 Related from the same author:
